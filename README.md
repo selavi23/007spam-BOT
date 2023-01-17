@@ -26,7 +26,7 @@
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
-git clone https://github.com/mrwn007/007spam-BOT.git
+git clone https://github.com/selavi23/007spam-BOT.git
 cd 007spam-BOT
 pip install requests
 python bot.py
@@ -40,7 +40,7 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 ```bash
 pkg install git
 pkg install python
-git clone https://github.com/mrwn007/007spam-BOT.git
+git clone https://github.com/selavi23/007spam-BOT.git
 cd 007spam-BOT
 python3 -m pip install requests
 python3 bot.py
